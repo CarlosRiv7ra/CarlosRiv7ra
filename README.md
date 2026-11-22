@@ -20,7 +20,7 @@ const carlos = {
     carrera: "Desarrollo y Gestión de Software",
     intereses: [
         "Desarrollo web",
-        "Diseño Gráfico",
+        "Diseño gráfico",
         "Tecnología",
         "Soluciones creativas"
     ],
@@ -73,7 +73,7 @@ const carlos = {
   <a href="https://github.com/CarlosRiv7ra">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/carlosriverax">
+  <a href="https://www.linkedin.com/in/carlosriverax?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
